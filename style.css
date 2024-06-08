@@ -20,3 +20,33 @@ ul {
     display: flex;
     gap: 10px;
 }
+body{
+    background-color: rgb(200, 104, 104);
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Parrafo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 40px;
+
+}
+.Imagen{
+    display: flex;
+    justify-content: center;
+}
+
+.Parrafo a{
+    background-color: rgb(241, 25, 115);
+    color: rgb(0, 0, 0);
+}
+
+.Descripcion {
+    display: flex;
+    align-items: center;
+    padding: 50px;
+}
